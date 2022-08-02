@@ -1,4 +1,4 @@
-# EXERCICE - Show Cards App whit MUI
+# EXERCICE - Show Cards App whit React and MUI
 ## App para mostrar listado de Items en Cards
 Ejercicio para listar cards por categoria
 ## _Descripción_
