@@ -5,8 +5,6 @@ import ItemListContainer from './components/ItemListContainer';
 import ItemDetailContainer from './components/ItemDetailContainer'
 import Footer from './components/Footer';
 
-
-
 function App() {
   return (
     <>    
